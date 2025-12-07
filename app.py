@@ -40,7 +40,7 @@ with st.sidebar:
     st.markdown("2. Click 'Analyze Code'.")
 
 # --- Main Interface ---
-st.title("🤖 AI Code Analyzer")
+st.title("🤖 CodeLens AI")
 
 # Stop execution if no key is found
 if not api_key:
